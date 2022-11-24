@@ -14,9 +14,6 @@
         background-size: cover;
         position: relative;
     }
-      #slika{
-         display: flex;
-         align-items:left;
 }
     #nav{
         display: flex;
